@@ -3,6 +3,8 @@ Converts Jedi Knight JKL maps to OBJ
 
 <img title="Caesars Palace" src="img\Caesars2.png" width="600">
 
+*Note: This branch is an archive of the original script. Any futher changes to the main repo will be newer versions*
+
 This was my first "real" Python project outside of following tutorials. It's quite a mess but it does the job. For materials, you will have to extract and convert them to BMP before running this script. It relies on being pointed to a directory with all of the BMP files. 
 
 The file paths are hardcoded in this script, but should be easy enough to figure out. 
